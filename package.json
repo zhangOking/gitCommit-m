@@ -1,5 +1,5 @@
 {
-  "name": "gitcommit",
+  "name": "gitcommit-m",
   "version": "1.0.0",
   "description": "git commit -m",
   "main": "index.js",
