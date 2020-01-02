@@ -18,12 +18,15 @@ if [ -z $littleTitle ]; then
 
     if [ -z $title ]; then
         echo "请确认提交内容   $model: 空"
+        git commit -m "$model: 空"
     else
         echo "请确认提交内容   $model: $title"
+        git commit -m "$model: $title"
     fi
 
 else
     echo "请确认提交内容   $model($littleTitle): $title"
+    git commit -m "$model($littleTitle): $title"
 fi
 
 
