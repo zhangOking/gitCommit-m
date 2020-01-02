@@ -38,7 +38,7 @@ else
 fi
 
 if [[ $branch ]]; then
-    echo "git push origin $branch"
+    git push origin $branch
 fi
 
 
