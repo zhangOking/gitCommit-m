@@ -1,6 +1,6 @@
 {
   "name": "gitcommit-m",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "replace git commit -m",
   "main": "index.js",
   "scripts": {
