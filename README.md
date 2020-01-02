@@ -1,6 +1,6 @@
 # gitCommit-m
 
-##使用方式
+## 使用方式
 
 npm i gitcommit-m --save-dev
 
@@ -14,7 +14,7 @@ npm i gitcommit-m --save-dev
 },
 ```
 
-### 1) 取代git commit -m ""
+### 1) 取代git commit -m "..."
 
 提交代码时
 
@@ -31,4 +31,4 @@ git add .
 yarn/npm submit 'your branch'  //按照提示输入即可
 
 ```
-将会自动提交到'your branch'
+将会自动提交到 'your branch'

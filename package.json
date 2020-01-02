@@ -1,7 +1,7 @@
 {
   "name": "gitcommit-m",
-  "version": "1.0.0",
-  "description": "git commit -m",
+  "version": "1.0.2",
+  "description": "replace git commit -m",
   "main": "index.js",
   "scripts": {
     "submit": "chmod +x ./submit.sh && ./submit.sh"
